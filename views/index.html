@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Project</title>
+    <script src="../js/d3.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" type="text/css" href="../css/test.css">
+    <link rel="stylesheet" type="text/css" href="../css/barchart.css">
+    <link rel="stylesheet" type="text/css" href="../css/linechart.css">
+    <link rel="stylesheet" type="text/css" href="../css/linefocus.css">
+    <link rel="stylesheet" type="text/css" href="../css/multiline.css">
+    <link rel="stylesheet" type="text/css" href="../css/scatterplot.css">
+    <link rel="stylesheet" type="text/css" href="../vendors/bootstrap-3.3.6/dist/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="../vendors/bootstrap-3.3.6/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../vendors/d3-geo/d3.geomap.css">
+
+    <script src="../js/d3.js"></script>
+    <!--<script src="../js/d3-focus.min.js"></script>-->
+    <!--<script src="../js/d3.v2.js"></script>-->
+    <!--<script src="http://www.d3plus.org/js/d3.js"></script>-->
+    <!--<script src="//d3js.org/topojson.v1.min.js"></script>-->
+    <script src="../vendors/d3plus.v1.9.3/js/topojson.min.js"></script>
+    <!--<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>-->
+    <!--<script src="../vendors/d3plus.v1.9.3/js/d3plus.min.js"></script>-->
+    <!--<script src="../vendors/datamaps/dist/datamaps.all.min.js"></script>-->
+    <script src="../vendors/datamaps/dist/datamaps.world.min.js"></script>
+    <!--<script src="../vendors/datamaps/dist/datamaps.usa.min.js"></script>-->
+    <!--<script src="../vendors/datamaps/dist/datamaps.ind.min.js"></script>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.tipsy.js"></script>
+    <script src="../vendors/bootstrap-3.3.6/dist/js/bootstrap.min.js"></script>
+    <script src="../vendors/d3-geo/d3.geo.projection.js"></script>
+    <script src="../vendors/d3-geo/d3.geomap.min.js"></script>
+    <script src="../vendors/d3-geo/queue.v1.min.js"></script>
+
+    <script src="../js/uStates.js"></script>
+    <script src="../js/barchart.js"></script>
+    <script src="../js/linechart.js"></script>
+    <script src="../js/multiline.js"></script>
+</head>
+<body>
+<div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">TempRecorder</a>
+            </div>
+            <ul class="nav navbar-nav" id="myTab">
+                <li class="active"><a class="tabs_pointer" data-target="#world" data-toggle="tab">World Temp.</a></li>
+                <li><a class="tabs_pointer" data-target="#usa" data-toggle="tab">USA Temp.</a></li>
+                <li><a class="tabs_pointer" data-target="#ddworld" data-toggle="tab">DeepDown World Analysis</a></li>
+                <li><a class="tabs_pointer" data-target="#ddusa" data-toggle="tab">DeepDown USA Analysis</a></li>
+                <li><a class="tabs_pointer" data-target="#global" data-toggle="tab">Global Temp.</a></li>
+                <li><a class="tabs_pointer" data-target="#worldline" data-toggle="tab">Countries Analysis</a></li>
+                <li><a class="tabs_pointer" data-target="#uncertainty" data-toggle="tab">Uncertainty Measurement</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="row" style="margin-top: 50px">
+        <div class="tab-content" style="border: 1px solid #d3d3d3; height:655px">
+            <div class="tab-pane active" id="world" style="padding-top: 10px">
+                <div class="col-lg-9">
+                    <div id="legendT1"></div>
+                    <div id="worldId" style="height: 600px; position: relative"></div>
+                    <canvas style="display: none" id="canvas" width="800" height="600"></canvas>
+                    <div id="png-container" style="display: none"></div>
+                </div>
+                <div class="col-lg-3">
+                    Filter By:
+                    <select class="pull-right" id="selectYear" onchange="filterdataEngine(this.value, 1)">
+                    </select>
+                    <select class="pull-right" id="selectMonth" onchange="filterdataEngine(this.value, 2)">
+                    </select>
+                    <br/>
+                    <br/>
+                    <button class="btn-primary pull-right" onclick="downlaoding()">Download</button>
+                </div>
+            </div>
+            <div class="tab-pane" id="usa" style="padding-top: 10px">
+                <div class="col-lg-9">
+                    <div id="legendT2"></div>
+                    <div id="tooltip"></div>
+                    <svg width="960" height="600" id="statesvg"></svg>
+                </div>
+                <div class="col-lg-3">
+                    Filter By:
+                    <select class="pull-right" id="selectYearT2" onchange="filterdataEngineT2(this.value, 1)">
+                    </select>
+                    <select class="pull-right" id="selectMonthT2" onchange="filterdataEngineT2(this.value, 2)">
+                    </select>
+                </div>
+            </div>
+            <div class="tab-pane" id="ddworld" style="padding-top: 10px">
+                <div class="col-lg-9">
+                    <h4>Deepdown World's Countries Analysis</h4>
+                    Group by: <select id="selectGroupT3" onchange="filterGroupEngineT3(this.value)">
+                    </select>
+                    <div id="tooltipT3"></div>
+                    <div id="deepdownId"></div>
+                </div>
+                <div class="col-lg-3">
+                    Filter By:
+                    <select class="pull-right" id="selectCountryT3" style="width: 200px" onchange="filterdataEngineT3(this.value, 3)">
+                    </select><br/>
+                    <select class="pull-right" id="selectYearT3" onchange="filterdataEngineT3(this.value, 1)">
+                    </select> &nbsp;&nbsp;
+                    <select class="pull-right" id="selectMonthT3" onchange="filterdataEngineT3(this.value, 2)">
+                    </select>
+                </div>
+            </div>
+            <div class="tab-pane" id="ddusa" style="padding-top: 10px">
+                <div class="col-lg-9">
+                    <h4>Deepdown USA's States Analysis</h4>
+                    Group by: <select id="selectGroupT4" onchange="filterGroupEngineT4(this.value)">
+                    </select>
+
+                    <div id="tooltipT4"></div>
+                    <div id="deepdownUSAId"></div>
+                </div>
+                <div class="col-lg-3">
+                    Filter By:
+                    <select class="pull-right" id="selectStateT4" style="width:200px" onchange="filterdataEngineT4(this.value, 3)">
+                    </select><br/>
+                    <select class="pull-right" id="selectYearT4" onchange="filterdataEngineT4(this.value, 1)">
+                    </select>
+                    <select class="pull-right" id="selectMonthT4" onchange="filterdataEngineT4(this.value, 2)">
+                    </select>
+                </div>
+            </div>
+            <div class="tab-pane" id="global" style="padding-top: 10px">
+                <div class="col-lg-12">
+                    <h4>Global Max, Avg, Min Temperatures Comparison</h4>
+                    <br/>
+                    <br/>
+                    <div id="allId"></div>
+                </div>
+            </div>
+            <div class="tab-pane" id="worldline" style="padding-top: 10px">
+                <div class="col-lg-12">
+                    <h4>Countries Analysis</h4>
+                    <p id="menu" class="menuchoice pull-right">Select Country &nbsp;&nbsp;
+                        <select class="pull-right" id="selectCountryT6">
+                        </select>
+                    </p>
+                    <div id="worldlineId"></div>
+                </div>
+            </div>
+            <div class="tab-pane" id="uncertainty" style="padding-top: 10px">
+                <div class="col-lg-12">
+                    <h4>Uncertainty in temperature measurement with Accuracy</h4>
+                    <br/>
+                    <br/>
+                    <div id="uncertaintyId"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--<script src="../vendors/JSLINQ/JSLINQ.js"></script>-->
+
+<script src="../js/linefocus.js"></script>
+<script src="../js/world.js"></script>
+<script src="../js/usa.js"></script>
+<script src="../js/deepdown.js"></script>
+<script src="../js/deepdownusa.js"></script>
+
+<script src="../js/multiLineWorld.js"></script>
+<script src="../js/scatterchart.js"></script>
+
+</body>
+</html>

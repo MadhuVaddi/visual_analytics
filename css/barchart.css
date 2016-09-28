@@ -1,0 +1,153 @@
+/*Bar Chart*/
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.bar {
+    fill: steelblue;
+}
+
+.bar:hover {
+    fill: orangered ;
+}
+
+/*.x.axis path {*/
+    /*display: none;*/
+/*}*/
+
+#tooltipT3 {
+    position: absolute;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 1px;
+    border-radius: 3px;
+    pointer-events: none;
+}
+#tooltipT3 h4{
+    margin:0;
+    font-size:14px;
+}
+#tooltipT3{
+    background: #ffffff;
+    border:1px solid #d3d3d3;
+    border-radius:3px;
+    font-size:12px;
+    width:auto;
+    padding:4px;
+    color: black;
+    opacity:0;
+    box-shadow: 1px 1px 1px grey;
+
+}
+#tooltipT3 table{
+    table-layout:fixed;
+}
+#tooltipT3 tr td{
+    padding:0;
+    margin:0;
+}
+#tooltipT3 tr td:nth-child(1){
+    width:50px;
+}
+#tooltipT3 tr td:nth-child(2){
+    text-align:center;
+}
+
+#tooltipT4 {
+    position: absolute;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 1px;
+    border-radius: 3px;
+    pointer-events: none;
+}
+#tooltipT4 h4{
+    margin:0;
+    font-size:14px;
+}
+#tooltipT4{
+    background: #ffffff;
+    border:1px solid #d3d3d3;
+    border-radius:3px;
+    font-size:12px;
+    width:auto;
+    padding:4px;
+    color: black;
+    opacity:0;
+    box-shadow: 1px 1px 1px grey;
+
+}
+#tooltipT4 table{
+    table-layout:fixed;
+}
+#tooltipT4 tr td{
+    padding:0;
+    margin:0;
+}
+#tooltipT4 tr td:nth-child(1){
+    width:50px;
+}
+#tooltipT4 tr td:nth-child(2){
+    text-align:center;
+}
+
+
+
+/*negative*/
+body{
+    font-family: sans-serif;
+}
+.positive{
+    fill: #FF5a00;
+    fill-opacity: 0.9;
+}
+.negative{
+    fill: #009BFF;
+    fill-opacity: 0.9;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    font-family: sans-serif;
+    font-size: 10px;
+}
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    color: #000000;
+    font-size: 12px;
+    background: #FFF;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    border: 2px;
+    border-radius: 3px;
+    pointer-events: none;
+}
+li{
+    overflow:hidden;
+    display: inline-block;
+}
+ul{
+    padding-left: 0;
+    padding-right: 0;
+}
+#chart-container{
+    float:left;
+}

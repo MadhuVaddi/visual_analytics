@@ -1,0 +1,20 @@
+
+div.tooltipScatter {
+    position: absolute;
+    vertical-align: middle;
+    height: 70px;
+    padding: 5px;
+    color: #000000;
+    font-size: 12px;
+    background: #FFF;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    border: 2px;
+    border-radius: 3px;
+    pointer-events: none;
+}
+
+.tooltipScatter {
+    position: absolute;
+    height: 28px;
+    pointer-events: none;
+}

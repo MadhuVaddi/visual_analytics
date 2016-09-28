@@ -1,0 +1,61 @@
+svg {
+    font: 10px sans-serif;
+}
+
+.area {
+    fill: #d7ff00;
+    opacity: 0.5;
+    clip-path: url(#clip);
+}
+
+.areamax {
+    fill: #FF5a00;
+    opacity: 0.5;
+    clip-path: url(#clip);
+}
+
+.areamin {
+    fill: #009BFF;
+    opacity: 0.5;
+    clip-path: url(#clip);
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.brush .extent {
+    stroke: #fff;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+
+.overlay {
+    fill: none;
+    pointer-events: all;
+}
+
+
+div.tooltipLineFocus {
+    position: absolute;
+    vertical-align: middle;
+    height: 80px;
+    padding: 5px;
+    color: #000000;
+    font-size: 12px;
+    background: #FFF;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    border: 2px;
+    border-radius: 3px;
+    pointer-events: none;
+}
+
+.tooltipLineFocus {
+    position: absolute;
+    height: 28px;
+    pointer-events: none;
+}

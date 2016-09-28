@@ -1,0 +1,613 @@
+AverageTemperature,AverageTemperatureUncertainty,State,Country,date,year,month,monthname,code
+6.286,0.537,Alabama,United States,1/1/1900,1900,1,Jan,1000
+-23.739,1.587,Alaska,United States,1/1/1900,1900,1,Jan,2000
+7.265,0.665,Arizona,United States,1/1/1900,1900,1,Jan,4000
+5.377,0.538,Arkansas,United States,1/1/1900,1900,1,Jan,5000
+7.876,0.52,California,United States,1/1/1900,1900,1,Jan,6000
+-2.588,0.528,Colorado,United States,1/1/1900,1900,1,Jan,8000
+-1.765,0.545,Connecticut,United States,1/1/1900,1900,1,Jan,9000
+1.367,0.513,Delaware,United States,1/1/1900,1900,1,Jan,10000
+0.422,0.586,District Of Columbia,United States,1/1/1900,1900,1,Jan,11000
+13.439,0.45,Florida,United States,1/1/1900,1900,1,Jan,12000
+-0.325,0.476,District Of Columbia,United States,2/1/1900,1900,2,Feb,11000
+20.324,0.863,Hawaii,United States,1/1/1900,1900,1,Jan,15000
+-3.095,0.429,Idaho,United States,1/1/1900,1900,1,Jan,16000
+-0.687,0.483,Illinois,United States,1/1/1900,1900,1,Jan,17000
+-0.492,0.484,Indiana,United States,1/1/1900,1900,1,Jan,18000
+-3.873,0.514,Iowa,United States,1/1/1900,1900,1,Jan,19000
+1.433,0.542,Kansas,United States,1/1/1900,1900,1,Jan,20000
+1.925,0.569,Kentucky,United States,1/1/1900,1900,1,Jan,21000
+9.291,0.518,Louisiana,United States,1/1/1900,1900,1,Jan,22000
+-9.081,0.564,Maine,United States,1/1/1900,1900,1,Jan,23000
+1.153,0.538,Maryland,United States,1/1/1900,1900,1,Jan,24000
+-4.135,0.449,Massachusetts,United States,1/1/1900,1900,1,Jan,25000
+-4.566,0.559,Michigan,United States,1/1/1900,1900,1,Jan,26000
+-9.022,0.67,Minnesota,United States,1/1/1900,1900,1,Jan,27000
+7.146,0.61,Mississippi,United States,1/1/1900,1900,1,Jan,5093
+1.106,0.428,Missouri,United States,1/1/1900,1900,1,Jan,29000
+-3.499,0.42,Montana,United States,1/1/1900,1900,1,Jan,30000
+-1.605,0.627,Nebraska,United States,1/1/1900,1900,1,Jan,31000
+2.188,0.737,Nevada,United States,1/1/1900,1900,1,Jan,5099
+-7.593,0.486,New Hampshire,United States,1/1/1900,1900,1,Jan,33000
+-0.55,0.454,New Jersey,United States,1/1/1900,1900,1,Jan,34000
+3.186,0.616,New Mexico,United States,1/1/1900,1900,1,Jan,35000
+-4.999,0.449,New York,United States,1/1/1900,1900,1,Jan,36000
+4.277,0.556,North Carolina,United States,1/1/1900,1900,1,Jan,37000
+-8.542,0.582,North Dakota,United States,1/1/1900,1900,1,Jan,38000
+-0.949,0.423,Ohio,United States,1/1/1900,1900,1,Jan,18115
+4.675,0.535,Oklahoma,United States,1/1/1900,1900,1,Jan,40000
+2.067,0.483,Oregon,United States,1/1/1900,1900,1,Jan,29149
+-2.205,0.451,Pennsylvania,United States,1/1/1900,1900,1,Jan,42000
+-1.799,0.54,Rhode Island,United States,1/1/1900,1900,1,Jan,44000
+6.618,0.532,South Carolina,United States,1/1/1900,1900,1,Jan,45000
+-4.261,0.676,South Dakota,United States,1/1/1900,1900,1,Jan,46000
+3.008,0.574,Tennessee,United States,1/1/1900,1900,1,Jan,47000
+8.53,0.378,Texas,United States,1/1/1900,1900,1,Jan,29215
+-0.687,0.561,Utah,United States,1/1/1900,1900,1,Jan,49000
+-7.85,0.425,Vermont,United States,1/1/1900,1900,1,Jan,50000
+1.919,0.439,Virginia,United States,1/1/1900,1900,1,Jan,51000
+1.104,0.621,Washington,United States,1/1/1900,1900,1,Jan,1129
+0.118,0.496,West Virginia,United States,1/1/1900,1900,1,Jan,54000
+-6.418,0.681,Wisconsin,United States,1/1/1900,1900,1,Jan,55000
+-3.896,0.67,Wyoming,United States,1/1/1900,1900,1,Jan,36121
+6.523,0.52,Alabama,United States,2/1/1900,1900,2,Feb,1000
+-15.789,1.22,Alaska,United States,2/1/1900,1900,2,Feb,2000
+7.527,0.558,Arizona,United States,2/1/1900,1900,2,Feb,4000
+3.521,0.542,Arkansas,United States,2/1/1900,1900,2,Feb,5000
+8.64,0.511,California,United States,2/1/1900,1900,2,Feb,6000
+-4.046,0.561,Colorado,United States,2/1/1900,1900,2,Feb,8000
+-2.392,0.587,Connecticut,United States,2/1/1900,1900,2,Feb,9000
+0.39,0.487,Delaware,United States,2/1/1900,1900,2,Feb,10000
+2.726,0.465,District Of Columbia,United States,3/1/1900,1900,3,Mar,11000
+14.62,0.502,Florida,United States,2/1/1900,1900,2,Feb,12000
+11.378,0.336,District Of Columbia,United States,4/1/1900,1900,4,Apr,11000
+20.236,1.088,Hawaii,United States,2/1/1900,1900,2,Feb,15000
+-4.047,0.72,Idaho,United States,2/1/1900,1900,2,Feb,16000
+-4.938,0.604,Illinois,United States,2/1/1900,1900,2,Feb,17000
+-3.825,0.557,Indiana,United States,2/1/1900,1900,2,Feb,18000
+-9.72,0.619,Iowa,United States,2/1/1900,1900,2,Feb,19000
+-2.434,0.543,Kansas,United States,2/1/1900,1900,2,Feb,20000
+-0.409,0.578,Kentucky,United States,2/1/1900,1900,2,Feb,21000
+9.388,0.569,Louisiana,United States,2/1/1900,1900,2,Feb,22000
+-8.551,0.491,Maine,United States,2/1/1900,1900,2,Feb,23000
+0.261,0.459,Maryland,United States,2/1/1900,1900,2,Feb,24000
+-4.389,0.758,Massachusetts,United States,2/1/1900,1900,2,Feb,25000
+-9.321,0.68,Michigan,United States,2/1/1900,1900,2,Feb,26000
+-15.872,0.639,Minnesota,United States,2/1/1900,1900,2,Feb,27000
+6.897,0.665,Mississippi,United States,2/1/1900,1900,2,Feb,5093
+-3.265,0.54,Missouri,United States,2/1/1900,1900,2,Feb,29000
+-8.61,0.641,Montana,United States,2/1/1900,1900,2,Feb,30000
+-6.595,0.561,Nebraska,United States,2/1/1900,1900,2,Feb,31000
+2.392,0.829,Nevada,United States,2/1/1900,1900,2,Feb,5099
+-7.594,0.621,New Hampshire,United States,2/1/1900,1900,2,Feb,33000
+-1.152,0.521,New Jersey,United States,2/1/1900,1900,2,Feb,34000
+3.031,0.617,New Mexico,United States,2/1/1900,1900,2,Feb,35000
+-5.892,0.497,New York,United States,2/1/1900,1900,2,Feb,36000
+3.706,0.631,North Carolina,United States,2/1/1900,1900,2,Feb,37000
+-15.947,0.633,North Dakota,United States,2/1/1900,1900,2,Feb,38000
+-3.66,0.497,Ohio,United States,2/1/1900,1900,2,Feb,18115
+2.709,0.579,Oklahoma,United States,2/1/1900,1900,2,Feb,40000
+1.473,0.712,Oregon,United States,2/1/1900,1900,2,Feb,29149
+-3.795,0.485,Pennsylvania,United States,2/1/1900,1900,2,Feb,42000
+-2.398,0.63,Rhode Island,United States,2/1/1900,1900,2,Feb,44000
+6.591,0.421,South Carolina,United States,2/1/1900,1900,2,Feb,45000
+-10.152,0.46,South Dakota,United States,2/1/1900,1900,2,Feb,46000
+1.742,0.626,Tennessee,United States,2/1/1900,1900,2,Feb,47000
+8.242,0.549,Texas,United States,2/1/1900,1900,2,Feb,29215
+-0.562,0.508,Utah,United States,2/1/1900,1900,2,Feb,49000
+-7.969,0.591,Vermont,United States,2/1/1900,1900,2,Feb,50000
+0.985,0.478,Virginia,United States,2/1/1900,1900,2,Feb,51000
+-0.21,0.642,Washington,United States,2/1/1900,1900,2,Feb,1129
+-1.575,0.396,West Virginia,United States,2/1/1900,1900,2,Feb,54000
+-12.611,0.723,Wisconsin,United States,2/1/1900,1900,2,Feb,55000
+-7.276,0.931,Wyoming,United States,2/1/1900,1900,2,Feb,36121
+11.213,0.372,Alabama,United States,3/1/1900,1900,3,Mar,1000
+-12.253,1.051,Alaska,United States,3/1/1900,1900,3,Mar,2000
+12.735,0.285,Arizona,United States,3/1/1900,1900,3,Mar,4000
+9.868,0.408,Arkansas,United States,3/1/1900,1900,3,Mar,5000
+12.203,0.3,California,United States,3/1/1900,1900,3,Mar,6000
+2.78,0.469,Colorado,United States,3/1/1900,1900,3,Mar,8000
+-0.307,0.4,Connecticut,United States,3/1/1900,1900,3,Mar,9000
+3.02,0.534,Delaware,United States,3/1/1900,1900,3,Mar,10000
+17.38,0.338,District Of Columbia,United States,5/1/1900,1900,5,May,11000
+17.35,0.29,Florida,United States,3/1/1900,1900,3,Mar,12000
+22.268,0.45,District Of Columbia,United States,6/1/1900,1900,6,Jun,11000
+20.942,0.74,Hawaii,United States,3/1/1900,1900,3,Mar,15000
+3.247,0.369,Idaho,United States,3/1/1900,1900,3,Mar,16000
+1.486,0.507,Illinois,United States,3/1/1900,1900,3,Mar,17000
+1.232,0.451,Indiana,United States,3/1/1900,1900,3,Mar,18000
+-0.923,0.396,Iowa,United States,3/1/1900,1900,3,Mar,19000
+5.441,0.317,Kansas,United States,3/1/1900,1900,3,Mar,20000
+5.213,0.433,Kentucky,United States,3/1/1900,1900,3,Mar,21000
+14.051,0.317,Louisiana,United States,3/1/1900,1900,3,Mar,22000
+-5.846,0.502,Maine,United States,3/1/1900,1900,3,Mar,23000
+3.205,0.386,Maryland,United States,3/1/1900,1900,3,Mar,24000
+-2,0.437,Massachusetts,United States,3/1/1900,1900,3,Mar,25000
+-5.462,0.534,Michigan,United States,3/1/1900,1900,3,Mar,26000
+-6.06,0.569,Minnesota,United States,3/1/1900,1900,3,Mar,27000
+11.809,0.395,Mississippi,United States,3/1/1900,1900,3,Mar,5093
+4.706,0.373,Missouri,United States,3/1/1900,1900,3,Mar,29000
+-0.003,0.477,Montana,United States,3/1/1900,1900,3,Mar,30000
+1.938,0.383,Nebraska,United States,3/1/1900,1900,3,Mar,31000
+7.544,0.397,Nevada,United States,3/1/1900,1900,3,Mar,5099
+-5.098,0.509,New Hampshire,United States,3/1/1900,1900,3,Mar,33000
+1.369,0.424,New Jersey,United States,3/1/1900,1900,3,Mar,34000
+8.337,0.39,New Mexico,United States,3/1/1900,1900,3,Mar,35000
+-4.404,0.346,New York,United States,3/1/1900,1900,3,Mar,36000
+7.857,0.292,North Carolina,United States,3/1/1900,1900,3,Mar,37000
+-5.911,0.345,North Dakota,United States,3/1/1900,1900,3,Mar,38000
+0.386,0.336,Ohio,United States,3/1/1900,1900,3,Mar,18115
+9.574,0.435,Oklahoma,United States,3/1/1900,1900,3,Mar,40000
+6.807,0.365,Oregon,United States,3/1/1900,1900,3,Mar,29149
+-1.111,0.334,Pennsylvania,United States,3/1/1900,1900,3,Mar,42000
+-0.252,0.414,Rhode Island,United States,3/1/1900,1900,3,Mar,44000
+10.796,0.265,South Carolina,United States,3/1/1900,1900,3,Mar,45000
+-1.564,0.536,South Dakota,United States,3/1/1900,1900,3,Mar,46000
+7.209,0.307,Tennessee,United States,3/1/1900,1900,3,Mar,47000
+13.58,0.333,Texas,United States,3/1/1900,1900,3,Mar,29215
+5.77,0.39,Utah,United States,3/1/1900,1900,3,Mar,49000
+-5.838,0.389,Vermont,United States,3/1/1900,1900,3,Mar,50000
+5.097,0.275,Virginia,United States,3/1/1900,1900,3,Mar,51000
+6.048,0.441,Washington,United States,3/1/1900,1900,3,Mar,1129
+2.651,0.377,West Virginia,United States,3/1/1900,1900,3,Mar,54000
+-5.046,0.623,Wisconsin,United States,3/1/1900,1900,3,Mar,55000
+0.571,0.431,Wyoming,United States,3/1/1900,1900,3,Mar,36121
+17.103,0.313,Alabama,United States,4/1/1900,1900,4,Apr,1000
+-7.066,0.857,Alaska,United States,4/1/1900,1900,4,Apr,2000
+11.775,0.445,Arizona,United States,4/1/1900,1900,4,Apr,4000
+15.933,0.464,Arkansas,United States,4/1/1900,1900,4,Apr,5000
+11.405,0.373,California,United States,4/1/1900,1900,4,Apr,6000
+5.027,0.379,Colorado,United States,4/1/1900,1900,4,Apr,8000
+7.576,0.382,Connecticut,United States,4/1/1900,1900,4,Apr,9000
+10.578,0.353,Delaware,United States,4/1/1900,1900,4,Apr,10000
+25.591,0.551,District Of Columbia,United States,7/1/1900,1900,7,Jul,11000
+20.764,0.252,Florida,United States,4/1/1900,1900,4,Apr,12000
+25.731,0.477,District Of Columbia,United States,8/1/1900,1900,8,Aug,11000
+20.989,0.539,Hawaii,United States,4/1/1900,1900,4,Apr,15000
+5.865,0.396,Idaho,United States,4/1/1900,1900,4,Apr,16000
+11.386,0.293,Illinois,United States,4/1/1900,1900,4,Apr,17000
+10.782,0.402,Indiana,United States,4/1/1900,1900,4,Apr,18000
+10.92,0.305,Iowa,United States,4/1/1900,1900,4,Apr,19000
+12.311,0.257,Kansas,United States,4/1/1900,1900,4,Apr,20000
+12.569,0.235,Kentucky,United States,4/1/1900,1900,4,Apr,21000
+18.837,0.327,Louisiana,United States,4/1/1900,1900,4,Apr,22000
+3.866,0.272,Maine,United States,4/1/1900,1900,4,Apr,23000
+11.152,0.278,Maryland,United States,4/1/1900,1900,4,Apr,24000
+6.639,0.334,Massachusetts,United States,4/1/1900,1900,4,Apr,25000
+7.084,0.203,Michigan,United States,4/1/1900,1900,4,Apr,26000
+8.755,0.376,Minnesota,United States,4/1/1900,1900,4,Apr,27000
+17.431,0.323,Mississippi,United States,4/1/1900,1900,4,Apr,5093
+13.261,0.295,Missouri,United States,4/1/1900,1900,4,Apr,29000
+7.408,0.39,Montana,United States,4/1/1900,1900,4,Apr,30000
+10.142,0.318,Nebraska,United States,4/1/1900,1900,4,Apr,31000
+7.002,0.578,Nevada,United States,4/1/1900,1900,4,Apr,5099
+4.871,0.386,New Hampshire,United States,4/1/1900,1900,4,Apr,33000
+9.77,0.324,New Jersey,United States,4/1/1900,1900,4,Apr,34000
+9.364,0.355,New Mexico,United States,4/1/1900,1900,4,Apr,35000
+6.622,0.36,New York,United States,4/1/1900,1900,4,Apr,36000
+13.956,0.335,North Carolina,United States,4/1/1900,1900,4,Apr,37000
+9.332,0.226,North Dakota,United States,4/1/1900,1900,4,Apr,38000
+9.707,0.229,Ohio,United States,4/1/1900,1900,4,Apr,18115
+15.33,0.304,Oklahoma,United States,4/1/1900,1900,4,Apr,40000
+7.09,0.379,Oregon,United States,4/1/1900,1900,4,Apr,29149
+8.551,0.231,Pennsylvania,United States,4/1/1900,1900,4,Apr,42000
+7.486,0.366,Rhode Island,United States,4/1/1900,1900,4,Apr,44000
+16.548,0.286,South Carolina,United States,4/1/1900,1900,4,Apr,45000
+9.822,0.275,South Dakota,United States,4/1/1900,1900,4,Apr,46000
+13.937,0.3,Tennessee,United States,4/1/1900,1900,4,Apr,47000
+17.043,0.295,Texas,United States,4/1/1900,1900,4,Apr,29215
+6.578,0.32,Utah,United States,4/1/1900,1900,4,Apr,49000
+4.723,0.371,Vermont,United States,4/1/1900,1900,4,Apr,50000
+12.11,0.304,Virginia,United States,4/1/1900,1900,4,Apr,51000
+8.213,0.316,Washington,United States,4/1/1900,1900,4,Apr,1129
+10.244,0.301,West Virginia,United States,4/1/1900,1900,4,Apr,54000
+8.102,0.344,Wisconsin,United States,4/1/1900,1900,4,Apr,55000
+4.893,0.502,Wyoming,United States,4/1/1900,1900,4,Apr,36121
+21.311,0.35,Alabama,United States,5/1/1900,1900,5,May,1000
+2.308,0.981,Alaska,United States,5/1/1900,1900,5,May,2000
+19.945,0.373,Arizona,United States,5/1/1900,1900,5,May,4000
+20.091,0.437,Arkansas,United States,5/1/1900,1900,5,May,5000
+17.085,0.341,California,United States,5/1/1900,1900,5,May,6000
+12.44,0.372,Colorado,United States,5/1/1900,1900,5,May,8000
+12.763,0.385,Connecticut,United States,5/1/1900,1900,5,May,9000
+16.458,0.49,Delaware,United States,5/1/1900,1900,5,May,10000
+22.351,0.428,District Of Columbia,United States,9/1/1900,1900,9,Sep,11000
+23.84,0.364,Florida,United States,5/1/1900,1900,5,May,12000
+15.677,0.484,District Of Columbia,United States,10/1/1900,1900,10,Oct,11000
+22.291,0.521,Hawaii,United States,5/1/1900,1900,5,May,15000
+10.716,0.406,Idaho,United States,5/1/1900,1900,5,May,16000
+17.737,0.267,Illinois,United States,5/1/1900,1900,5,May,17000
+17.711,0.28,Indiana,United States,5/1/1900,1900,5,May,18000
+17.268,0.333,Iowa,United States,5/1/1900,1900,5,May,19000
+18.128,0.301,Kansas,United States,5/1/1900,1900,5,May,20000
+18.324,0.347,Kentucky,United States,5/1/1900,1900,5,May,21000
+22.886,0.354,Louisiana,United States,5/1/1900,1900,5,May,22000
+8.3,0.18,Maine,United States,5/1/1900,1900,5,May,23000
+17.16,0.289,Maryland,United States,5/1/1900,1900,5,May,24000
+11.682,0.383,Massachusetts,United States,5/1/1900,1900,5,May,25000
+12.826,0.263,Michigan,United States,5/1/1900,1900,5,May,26000
+14.255,0.347,Minnesota,United States,5/1/1900,1900,5,May,27000
+21.803,0.4,Mississippi,United States,5/1/1900,1900,5,May,5093
+18.675,0.36,Missouri,United States,5/1/1900,1900,5,May,29000
+12.513,0.407,Montana,United States,5/1/1900,1900,5,May,30000
+17.019,0.386,Nebraska,United States,5/1/1900,1900,5,May,31000
+14.058,0.326,Nevada,United States,5/1/1900,1900,5,May,5099
+9.96,0.336,New Hampshire,United States,5/1/1900,1900,5,May,33000
+15.637,0.395,New Jersey,United States,5/1/1900,1900,5,May,34000
+16.552,0.379,New Mexico,United States,5/1/1900,1900,5,May,35000
+12.671,0.235,New York,United States,5/1/1900,1900,5,May,36000
+19.117,0.359,North Carolina,United States,5/1/1900,1900,5,May,37000
+15.126,0.22,North Dakota,United States,5/1/1900,1900,5,May,38000
+16.927,0.256,Ohio,United States,5/1/1900,1900,5,May,18115
+19.74,0.372,Oklahoma,United States,5/1/1900,1900,5,May,40000
+11.192,0.258,Oregon,United States,5/1/1900,1900,5,May,29149
+14.954,0.233,Pennsylvania,United States,5/1/1900,1900,5,May,42000
+12.6,0.394,Rhode Island,United States,5/1/1900,1900,5,May,44000
+20.934,0.388,South Carolina,United States,5/1/1900,1900,5,May,45000
+16.414,0.275,South Dakota,United States,5/1/1900,1900,5,May,46000
+18.754,0.415,Tennessee,United States,5/1/1900,1900,5,May,47000
+21.712,0.313,Texas,United States,5/1/1900,1900,5,May,29215
+13.922,0.191,Utah,United States,5/1/1900,1900,5,May,49000
+10.077,0.259,Vermont,United States,5/1/1900,1900,5,May,50000
+17.786,0.327,Virginia,United States,5/1/1900,1900,5,May,51000
+11.52,0.296,Washington,United States,5/1/1900,1900,5,May,1129
+16.309,0.345,West Virginia,United States,5/1/1900,1900,5,May,54000
+14.099,0.249,Wisconsin,United States,5/1/1900,1900,5,May,55000
+11.644,0.39,Wyoming,United States,5/1/1900,1900,5,May,36121
+24.172,0.499,Alabama,United States,6/1/1900,1900,6,Jun,1000
+8.765,0.864,Alaska,United States,6/1/1900,1900,6,Jun,2000
+24.861,0.426,Arizona,United States,6/1/1900,1900,6,Jun,4000
+24.159,0.477,Arkansas,United States,6/1/1900,1900,6,Jun,5000
+21.309,0.461,California,United States,6/1/1900,1900,6,Jun,6000
+17.87,0.561,Colorado,United States,6/1/1900,1900,6,Jun,8000
+19.024,0.51,Connecticut,United States,6/1/1900,1900,6,Jun,9000
+21.568,0.555,Delaware,United States,6/1/1900,1900,6,Jun,10000
+8.391,0.337,District Of Columbia,United States,11/1/1900,1900,11,Nov,11000
+26.049,0.418,Florida,United States,6/1/1900,1900,6,Jun,12000
+0.955,0.599,District Of Columbia,United States,12/1/1900,1900,12,Dec,11000
+23.774,0.647,Hawaii,United States,6/1/1900,1900,6,Jun,15000
+16.417,0.509,Idaho,United States,6/1/1900,1900,6,Jun,16000
+21.312,0.544,Illinois,United States,6/1/1900,1900,6,Jun,17000
+21.203,0.52,Indiana,United States,6/1/1900,1900,6,Jun,18000
+20.693,0.493,Iowa,United States,6/1/1900,1900,6,Jun,19000
+23.542,0.418,Kansas,United States,6/1/1900,1900,6,Jun,20000
+22.63,0.508,Kentucky,United States,6/1/1900,1900,6,Jun,21000
+26.094,0.367,Louisiana,United States,6/1/1900,1900,6,Jun,22000
+15.938,0.431,Maine,United States,6/1/1900,1900,6,Jun,23000
+22.032,0.442,Maryland,United States,6/1/1900,1900,6,Jun,24000
+18.552,0.427,Massachusetts,United States,6/1/1900,1900,6,Jun,25000
+16.841,0.456,Michigan,United States,6/1/1900,1900,6,Jun,26000
+18.418,0.42,Minnesota,United States,6/1/1900,1900,6,Jun,27000
+24.795,0.435,Mississippi,United States,6/1/1900,1900,6,Jun,5093
+22.502,0.41,Missouri,United States,6/1/1900,1900,6,Jun,29000
+17.897,0.406,Montana,United States,6/1/1900,1900,6,Jun,30000
+21.817,0.433,Nebraska,United States,6/1/1900,1900,6,Jun,31000
+20.169,0.606,Nevada,United States,6/1/1900,1900,6,Jun,5099
+17.666,0.537,New Hampshire,United States,6/1/1900,1900,6,Jun,33000
+21.012,0.517,New Jersey,United States,6/1/1900,1900,6,Jun,34000
+21.684,0.325,New Mexico,United States,6/1/1900,1900,6,Jun,35000
+18.812,0.538,New York,United States,6/1/1900,1900,6,Jun,36000
+23.185,0.477,North Carolina,United States,6/1/1900,1900,6,Jun,37000
+19.386,0.431,North Dakota,United States,6/1/1900,1900,6,Jun,38000
+20.88,0.401,Ohio,United States,6/1/1900,1900,6,Jun,18115
+25.131,0.414,Oklahoma,United States,6/1/1900,1900,6,Jun,40000
+15.816,0.588,Oregon,United States,6/1/1900,1900,6,Jun,29149
+20.072,0.466,Pennsylvania,United States,6/1/1900,1900,6,Jun,42000
+18.923,0.486,Rhode Island,United States,6/1/1900,1900,6,Jun,44000
+24.326,0.467,South Carolina,United States,6/1/1900,1900,6,Jun,45000
+20.803,0.398,South Dakota,United States,6/1/1900,1900,6,Jun,46000
+22.761,0.616,Tennessee,United States,6/1/1900,1900,6,Jun,47000
+26.67,0.38,Texas,United States,6/1/1900,1900,6,Jun,29215
+19.971,0.504,Utah,United States,6/1/1900,1900,6,Jun,49000
+17.528,0.572,Vermont,United States,6/1/1900,1900,6,Jun,50000
+22.253,0.456,Virginia,United States,6/1/1900,1900,6,Jun,51000
+15.54,0.462,Washington,United States,6/1/1900,1900,6,Jun,1129
+20.944,0.429,West Virginia,United States,6/1/1900,1900,6,Jun,54000
+18.016,0.39,Wisconsin,United States,6/1/1900,1900,6,Jun,55000
+17.58,0.529,Wyoming,United States,6/1/1900,1900,6,Jun,36121
+26.146,0.515,Alabama,United States,7/1/1900,1900,7,Jul,1000
+12.249,0.961,Alaska,United States,7/1/1900,1900,7,Jul,2000
+27.292,0.474,Arizona,United States,7/1/1900,1900,7,Jul,4000
+25.73,0.505,Arkansas,United States,7/1/1900,1900,7,Jul,5000
+23.641,0.684,California,United States,7/1/1900,1900,7,Jul,6000
+19.159,0.561,Colorado,United States,7/1/1900,1900,7,Jul,8000
+22.232,0.641,Connecticut,United States,7/1/1900,1900,7,Jul,9000
+24.846,0.858,Delaware,United States,7/1/1900,1900,7,Jul,10000
+27.209,0.535,Florida,United States,7/1/1900,1900,7,Jul,12000
+24.265,0.743,Hawaii,United States,7/1/1900,1900,7,Jul,15000
+17.449,0.556,Idaho,United States,7/1/1900,1900,7,Jul,16000
+23.739,0.526,Illinois,United States,7/1/1900,1900,7,Jul,17000
+23.606,0.484,Indiana,United States,7/1/1900,1900,7,Jul,18000
+22.717,0.58,Iowa,United States,7/1/1900,1900,7,Jul,19000
+25.293,0.479,Kansas,United States,7/1/1900,1900,7,Jul,20000
+24.789,0.525,Kentucky,United States,7/1/1900,1900,7,Jul,21000
+26.843,0.357,Louisiana,United States,7/1/1900,1900,7,Jul,22000
+18.31,0.589,Maine,United States,7/1/1900,1900,7,Jul,23000
+25.226,0.567,Maryland,United States,7/1/1900,1900,7,Jul,24000
+21.31,0.731,Massachusetts,United States,7/1/1900,1900,7,Jul,25000
+19.178,0.487,Michigan,United States,7/1/1900,1900,7,Jul,26000
+19.356,0.62,Minnesota,United States,7/1/1900,1900,7,Jul,27000
+26.58,0.502,Mississippi,United States,7/1/1900,1900,7,Jul,5093
+24.601,0.507,Missouri,United States,7/1/1900,1900,7,Jul,29000
+18.371,0.51,Montana,United States,7/1/1900,1900,7,Jul,30000
+23.022,0.435,Nebraska,United States,7/1/1900,1900,7,Jul,31000
+22.227,0.375,Nevada,United States,7/1/1900,1900,7,Jul,5099
+19.902,0.86,New Hampshire,United States,7/1/1900,1900,7,Jul,33000
+24.079,0.659,New Jersey,United States,7/1/1900,1900,7,Jul,34000
+22.966,0.514,New Mexico,United States,7/1/1900,1900,7,Jul,35000
+21.11,0.601,New York,United States,7/1/1900,1900,7,Jul,36000
+25.889,0.532,North Carolina,United States,7/1/1900,1900,7,Jul,37000
+20.12,0.559,North Dakota,United States,7/1/1900,1900,7,Jul,38000
+23.154,0.514,Ohio,United States,7/1/1900,1900,7,Jul,18115
+26.112,0.56,Oklahoma,United States,7/1/1900,1900,7,Jul,40000
+17.671,0.493,Oregon,United States,7/1/1900,1900,7,Jul,29149
+22.502,0.63,Pennsylvania,United States,7/1/1900,1900,7,Jul,42000
+22.139,0.655,Rhode Island,United States,7/1/1900,1900,7,Jul,44000
+27.016,0.533,South Carolina,United States,7/1/1900,1900,7,Jul,45000
+22.025,0.452,South Dakota,United States,7/1/1900,1900,7,Jul,46000
+24.964,0.634,Tennessee,United States,7/1/1900,1900,7,Jul,47000
+26.723,0.474,Texas,United States,7/1/1900,1900,7,Jul,29215
+21.6,0.396,Utah,United States,7/1/1900,1900,7,Jul,49000
+19.632,0.819,Vermont,United States,7/1/1900,1900,7,Jul,50000
+24.945,0.505,Virginia,United States,7/1/1900,1900,7,Jul,51000
+17.452,0.583,Washington,United States,7/1/1900,1900,7,Jul,1129
+22.952,0.485,West Virginia,United States,7/1/1900,1900,7,Jul,54000
+19.608,0.524,Wisconsin,United States,7/1/1900,1900,7,Jul,55000
+17.972,0.51,Wyoming,United States,7/1/1900,1900,7,Jul,36121
+27.122,0.267,Alabama,United States,8/1/1900,1900,8,Aug,1000
+9.195,0.968,Alaska,United States,8/1/1900,1900,8,Aug,2000
+24.578,0.502,Arizona,United States,8/1/1900,1900,8,Aug,4000
+26.655,0.417,Arkansas,United States,8/1/1900,1900,8,Aug,5000
+21.222,0.501,California,United States,8/1/1900,1900,8,Aug,6000
+18.519,0.357,Colorado,United States,8/1/1900,1900,8,Aug,8000
+21.883,0.316,Connecticut,United States,8/1/1900,1900,8,Aug,9000
+25.172,0.392,Delaware,United States,8/1/1900,1900,8,Aug,10000
+27.798,0.248,Florida,United States,8/1/1900,1900,8,Aug,12000
+24.663,0.593,Hawaii,United States,8/1/1900,1900,8,Aug,15000
+15.48,0.441,Idaho,United States,8/1/1900,1900,8,Aug,16000
+26.149,0.298,Illinois,United States,8/1/1900,1900,8,Aug,17000
+25.482,0.367,Indiana,United States,8/1/1900,1900,8,Aug,18000
+24.946,0.296,Iowa,United States,8/1/1900,1900,8,Aug,19000
+26.73,0.323,Kansas,United States,8/1/1900,1900,8,Aug,20000
+26.141,0.374,Kentucky,United States,8/1/1900,1900,8,Aug,21000
+27.241,0.295,Louisiana,United States,8/1/1900,1900,8,Aug,22000
+17.666,0.428,Maine,United States,8/1/1900,1900,8,Aug,23000
+25.581,0.411,Maryland,United States,8/1/1900,1900,8,Aug,24000
+20.513,0.407,Massachusetts,United States,8/1/1900,1900,8,Aug,25000
+22.029,0.327,Michigan,United States,8/1/1900,1900,8,Aug,26000
+22.282,0.43,Minnesota,United States,8/1/1900,1900,8,Aug,27000
+27.236,0.33,Mississippi,United States,8/1/1900,1900,8,Aug,5093
+26.56,0.33,Missouri,United States,8/1/1900,1900,8,Aug,29000
+16.927,0.369,Montana,United States,8/1/1900,1900,8,Aug,30000
+24.512,0.285,Nebraska,United States,8/1/1900,1900,8,Aug,31000
+19.33,0.667,Nevada,United States,8/1/1900,1900,8,Aug,5099
+18.828,0.508,New Hampshire,United States,8/1/1900,1900,8,Aug,33000
+24.221,0.344,New Jersey,United States,8/1/1900,1900,8,Aug,34000
+21.795,0.286,New Mexico,United States,8/1/1900,1900,8,Aug,35000
+21.385,0.373,New York,United States,8/1/1900,1900,8,Aug,36000
+26.658,0.269,North Carolina,United States,8/1/1900,1900,8,Aug,37000
+21.168,0.355,North Dakota,United States,8/1/1900,1900,8,Aug,38000
+24.359,0.327,Ohio,United States,8/1/1900,1900,8,Aug,18115
+27.335,0.453,Oklahoma,United States,8/1/1900,1900,8,Aug,40000
+15.561,0.379,Oregon,United States,8/1/1900,1900,8,Aug,29149
+23.091,0.399,Pennsylvania,United States,8/1/1900,1900,8,Aug,42000
+21.727,0.321,Rhode Island,United States,8/1/1900,1900,8,Aug,44000
+28.022,0.248,South Carolina,United States,8/1/1900,1900,8,Aug,45000
+23.692,0.316,South Dakota,United States,8/1/1900,1900,8,Aug,46000
+26.005,0.393,Tennessee,United States,8/1/1900,1900,8,Aug,47000
+26.747,0.349,Texas,United States,8/1/1900,1900,8,Aug,29215
+19.309,0.424,Utah,United States,8/1/1900,1900,8,Aug,49000
+18.817,0.503,Vermont,United States,8/1/1900,1900,8,Aug,50000
+25.791,0.416,Virginia,United States,8/1/1900,1900,8,Aug,51000
+15.346,0.413,Washington,United States,8/1/1900,1900,8,Aug,1129
+23.92,0.42,West Virginia,United States,8/1/1900,1900,8,Aug,54000
+22.815,0.418,Wisconsin,United States,8/1/1900,1900,8,Aug,55000
+17.709,0.298,Wyoming,United States,8/1/1900,1900,8,Aug,36121
+25.02,0.407,Alabama,United States,9/1/1900,1900,9,Sep,1000
+4.111,1.052,Alaska,United States,9/1/1900,1900,9,Sep,2000
+20.607,0.417,Arizona,United States,9/1/1900,1900,9,Sep,4000
+24.796,0.465,Arkansas,United States,9/1/1900,1900,9,Sep,5000
+18.146,0.477,California,United States,9/1/1900,1900,9,Sep,6000
+13.264,0.357,Colorado,United States,9/1/1900,1900,9,Sep,8000
+18.622,0.403,Connecticut,United States,9/1/1900,1900,9,Sep,9000
+21.6,0.314,Delaware,United States,9/1/1900,1900,9,Sep,10000
+26.865,0.487,Florida,United States,9/1/1900,1900,9,Sep,12000
+24.626,0.792,Hawaii,United States,9/1/1900,1900,9,Sep,15000
+11.023,0.465,Idaho,United States,9/1/1900,1900,9,Sep,16000
+20.447,0.386,Illinois,United States,9/1/1900,1900,9,Sep,17000
+20.783,0.464,Indiana,United States,9/1/1900,1900,9,Sep,18000
+17.799,0.346,Iowa,United States,9/1/1900,1900,9,Sep,19000
+20.847,0.376,Kansas,United States,9/1/1900,1900,9,Sep,20000
+22.686,0.392,Kentucky,United States,9/1/1900,1900,9,Sep,21000
+27.119,0.373,Louisiana,United States,9/1/1900,1900,9,Sep,22000
+13.582,0.447,Maine,United States,9/1/1900,1900,9,Sep,23000
+22.314,0.343,Maryland,United States,9/1/1900,1900,9,Sep,24000
+16.996,0.43,Massachusetts,United States,9/1/1900,1900,9,Sep,25000
+16.666,0.418,Michigan,United States,9/1/1900,1900,9,Sep,26000
+14.2,0.431,Minnesota,United States,9/1/1900,1900,9,Sep,27000
+26.028,0.357,Mississippi,United States,9/1/1900,1900,9,Sep,5093
+21.536,0.34,Missouri,United States,9/1/1900,1900,9,Sep,29000
+11.095,0.343,Montana,United States,9/1/1900,1900,9,Sep,30000
+17.297,0.397,Nebraska,United States,9/1/1900,1900,9,Sep,31000
+13.857,0.666,Nevada,United States,9/1/1900,1900,9,Sep,5099
+14.988,0.516,New Hampshire,United States,9/1/1900,1900,9,Sep,33000
+20.508,0.345,New Jersey,United States,9/1/1900,1900,9,Sep,34000
+18.195,0.443,New Mexico,United States,9/1/1900,1900,9,Sep,35000
+17.31,0.407,New York,United States,9/1/1900,1900,9,Sep,36000
+23.282,0.337,North Carolina,United States,9/1/1900,1900,9,Sep,37000
+12.8,0.46,North Dakota,United States,9/1/1900,1900,9,Sep,38000
+20.429,0.403,Ohio,United States,9/1/1900,1900,9,Sep,18115
+23.848,0.413,Oklahoma,United States,9/1/1900,1900,9,Sep,40000
+12.481,0.239,Oregon,United States,9/1/1900,1900,9,Sep,29149
+19.254,0.417,Pennsylvania,United States,9/1/1900,1900,9,Sep,42000
+18.504,0.405,Rhode Island,United States,9/1/1900,1900,9,Sep,44000
+24.87,0.306,South Carolina,United States,9/1/1900,1900,9,Sep,45000
+15.387,0.389,South Dakota,United States,9/1/1900,1900,9,Sep,46000
+23.178,0.279,Tennessee,United States,9/1/1900,1900,9,Sep,47000
+25.437,0.351,Texas,United States,9/1/1900,1900,9,Sep,29215
+13.6,0.508,Utah,United States,9/1/1900,1900,9,Sep,49000
+14.937,0.489,Vermont,United States,9/1/1900,1900,9,Sep,50000
+22.403,0.341,Virginia,United States,9/1/1900,1900,9,Sep,51000
+12.509,0.449,Washington,United States,9/1/1900,1900,9,Sep,1129
+20.847,0.45,West Virginia,United States,9/1/1900,1900,9,Sep,54000
+15.554,0.323,Wisconsin,United States,9/1/1900,1900,9,Sep,55000
+11.568,0.428,Wyoming,United States,9/1/1900,1900,9,Sep,36121
+19.748,0.512,Alabama,United States,10/1/1900,1900,10,Oct,1000
+-5.882,0.901,Alaska,United States,10/1/1900,1900,10,Oct,2000
+15.795,0.644,Arizona,United States,10/1/1900,1900,10,Oct,4000
+18.065,0.507,Arkansas,United States,10/1/1900,1900,10,Oct,5000
+14.264,0.491,California,United States,10/1/1900,1900,10,Oct,6000
+8.355,0.718,Colorado,United States,10/1/1900,1900,10,Oct,8000
+13.41,0.358,Connecticut,United States,10/1/1900,1900,10,Oct,9000
+15.855,0.473,Delaware,United States,10/1/1900,1900,10,Oct,10000
+24.198,0.451,Florida,United States,10/1/1900,1900,10,Oct,12000
+23.601,1.043,Hawaii,United States,10/1/1900,1900,10,Oct,15000
+5.546,0.613,Idaho,United States,10/1/1900,1900,10,Oct,16000
+16.147,0.45,Illinois,United States,10/1/1900,1900,10,Oct,17000
+15.986,0.461,Indiana,United States,10/1/1900,1900,10,Oct,18000
+14.728,0.447,Iowa,United States,10/1/1900,1900,10,Oct,19000
+15.609,0.488,Kansas,United States,10/1/1900,1900,10,Oct,20000
+17.002,0.528,Kentucky,United States,10/1/1900,1900,10,Oct,21000
+21.089,0.5,Louisiana,United States,10/1/1900,1900,10,Oct,22000
+9.174,0.531,Maine,United States,10/1/1900,1900,10,Oct,23000
+15.986,0.482,Maryland,United States,10/1/1900,1900,10,Oct,24000
+11.985,0.471,Massachusetts,United States,10/1/1900,1900,10,Oct,25000
+13.16,0.448,Michigan,United States,10/1/1900,1900,10,Oct,26000
+11.55,0.418,Minnesota,United States,10/1/1900,1900,10,Oct,27000
+19.855,0.489,Mississippi,United States,10/1/1900,1900,10,Oct,5093
+16.32,0.456,Missouri,United States,10/1/1900,1900,10,Oct,29000
+6.603,0.436,Montana,United States,10/1/1900,1900,10,Oct,30000
+12.513,0.591,Nebraska,United States,10/1/1900,1900,10,Oct,31000
+9.243,0.43,Nevada,United States,10/1/1900,1900,10,Oct,5099
+10.347,0.426,New Hampshire,United States,10/1/1900,1900,10,Oct,33000
+14.743,0.428,New Jersey,United States,10/1/1900,1900,10,Oct,34000
+12.539,0.524,New Mexico,United States,10/1/1900,1900,10,Oct,35000
+12.441,0.483,New York,United States,10/1/1900,1900,10,Oct,36000
+17.674,0.367,North Carolina,United States,10/1/1900,1900,10,Oct,37000
+8.842,0.42,North Dakota,United States,10/1/1900,1900,10,Oct,38000
+15.325,0.476,Ohio,United States,10/1/1900,1900,10,Oct,18115
+17.674,0.492,Oklahoma,United States,10/1/1900,1900,10,Oct,40000
+7.6,0.387,Oregon,United States,10/1/1900,1900,10,Oct,29149
+13.71,0.491,Pennsylvania,United States,10/1/1900,1900,10,Oct,42000
+13.333,0.368,Rhode Island,United States,10/1/1900,1900,10,Oct,44000
+19.537,0.391,South Carolina,United States,10/1/1900,1900,10,Oct,45000
+11.144,0.472,South Dakota,United States,10/1/1900,1900,10,Oct,46000
+17.374,0.408,Tennessee,United States,10/1/1900,1900,10,Oct,47000
+19.601,0.58,Texas,United States,10/1/1900,1900,10,Oct,29215
+8.649,0.582,Utah,United States,10/1/1900,1900,10,Oct,49000
+10.378,0.428,Vermont,United States,10/1/1900,1900,10,Oct,50000
+16.185,0.382,Virginia,United States,10/1/1900,1900,10,Oct,51000
+7.248,0.463,Washington,United States,10/1/1900,1900,10,Oct,1129
+14.914,0.54,West Virginia,United States,10/1/1900,1900,10,Oct,54000
+12.86,0.535,Wisconsin,United States,10/1/1900,1900,10,Oct,55000
+6.481,0.589,Wyoming,United States,10/1/1900,1900,10,Oct,36121
+12.333,0.426,Alabama,United States,11/1/1900,1900,11,Nov,1000
+-15.15,1.528,Alaska,United States,11/1/1900,1900,11,Nov,2000
+10.766,0.445,Arizona,United States,11/1/1900,1900,11,Nov,4000
+10.478,0.384,Arkansas,United States,11/1/1900,1900,11,Nov,5000
+11.419,0.445,California,United States,11/1/1900,1900,11,Nov,6000
+1.793,0.478,Colorado,United States,11/1/1900,1900,11,Nov,8000
+6.634,0.347,Connecticut,United States,11/1/1900,1900,11,Nov,9000
+9.551,0.377,Delaware,United States,11/1/1900,1900,11,Nov,10000
+18.59,0.508,Florida,United States,11/1/1900,1900,11,Nov,12000
+22.318,0.592,Hawaii,United States,11/1/1900,1900,11,Nov,15000
+-0.51,0.44,Idaho,United States,11/1/1900,1900,11,Nov,16000
+4.703,0.353,Illinois,United States,11/1/1900,1900,11,Nov,17000
+5.185,0.35,Indiana,United States,11/1/1900,1900,11,Nov,18000
+0.547,0.313,Iowa,United States,11/1/1900,1900,11,Nov,19000
+5.047,0.362,Kansas,United States,11/1/1900,1900,11,Nov,20000
+7.513,0.38,Kentucky,United States,11/1/1900,1900,11,Nov,21000
+15.062,0.404,Louisiana,United States,11/1/1900,1900,11,Nov,22000
+0.837,0.528,Maine,United States,11/1/1900,1900,11,Nov,23000
+9.045,0.326,Maryland,United States,11/1/1900,1900,11,Nov,24000
+4.569,0.423,Massachusetts,United States,11/1/1900,1900,11,Nov,25000
+1.21,0.389,Michigan,United States,11/1/1900,1900,11,Nov,26000
+-4.467,0.394,Minnesota,United States,11/1/1900,1900,11,Nov,27000
+13.008,0.308,Mississippi,United States,11/1/1900,1900,11,Nov,5093
+6.148,0.434,Missouri,United States,11/1/1900,1900,11,Nov,29000
+-3.276,0.442,Montana,United States,11/1/1900,1900,11,Nov,30000
+1.34,0.326,Nebraska,United States,11/1/1900,1900,11,Nov,31000
+5.243,0.617,Nevada,United States,11/1/1900,1900,11,Nov,5099
+2.115,0.438,New Hampshire,United States,11/1/1900,1900,11,Nov,33000
+7.827,0.345,New Jersey,United States,11/1/1900,1900,11,Nov,34000
+6.765,0.228,New Mexico,United States,11/1/1900,1900,11,Nov,35000
+3.397,0.313,New York,United States,11/1/1900,1900,11,Nov,36000
+11.094,0.501,North Carolina,United States,11/1/1900,1900,11,Nov,37000
+-6.361,0.444,North Dakota,United States,11/1/1900,1900,11,Nov,38000
+5.068,0.362,Ohio,United States,11/1/1900,1900,11,Nov,18115
+9.573,0.31,Oklahoma,United States,11/1/1900,1900,11,Nov,40000
+3.9,0.411,Oregon,United States,11/1/1900,1900,11,Nov,29149
+5.303,0.302,Pennsylvania,United States,11/1/1900,1900,11,Nov,42000
+6.646,0.356,Rhode Island,United States,11/1/1900,1900,11,Nov,44000
+13.143,0.523,South Carolina,United States,11/1/1900,1900,11,Nov,45000
+-1.908,0.483,South Dakota,United States,11/1/1900,1900,11,Nov,46000
+8.92,0.449,Tennessee,United States,11/1/1900,1900,11,Nov,47000
+13.254,0.351,Texas,United States,11/1/1900,1900,11,Nov,29215
+3.767,0.539,Utah,United States,11/1/1900,1900,11,Nov,49000
+1.716,0.342,Vermont,United States,11/1/1900,1900,11,Nov,50000
+9.105,0.338,Virginia,United States,11/1/1900,1900,11,Nov,51000
+1.292,0.418,Washington,United States,11/1/1900,1900,11,Nov,1129
+6.601,0.317,West Virginia,United States,11/1/1900,1900,11,Nov,54000
+-1.733,0.282,Wisconsin,United States,11/1/1900,1900,11,Nov,55000
+-0.556,0.495,Wyoming,United States,11/1/1900,1900,11,Nov,36121
+7.733,0.539,Alabama,United States,12/1/1900,1900,12,Dec,1000
+-18.507,1.279,Alaska,United States,12/1/1900,1900,12,Dec,2000
+5.769,0.617,Arizona,United States,12/1/1900,1900,12,Dec,4000
+6.048,0.609,Arkansas,United States,12/1/1900,1900,12,Dec,5000
+6.979,0.703,California,United States,12/1/1900,1900,12,Dec,6000
+-2.922,0.639,Colorado,United States,12/1/1900,1900,12,Dec,8000
+-0.522,0.643,Connecticut,United States,12/1/1900,1900,12,Dec,9000
+1.877,0.675,Delaware,United States,12/1/1900,1900,12,Dec,10000
+15.415,0.596,Florida,United States,12/1/1900,1900,12,Dec,12000
+21.122,0.822,Hawaii,United States,12/1/1900,1900,12,Dec,15000
+-2.78,0.466,Idaho,United States,12/1/1900,1900,12,Dec,16000
+-0.395,0.568,Illinois,United States,12/1/1900,1900,12,Dec,17000
+-0.293,0.536,Indiana,United States,12/1/1900,1900,12,Dec,18000
+-3.232,0.606,Iowa,United States,12/1/1900,1900,12,Dec,19000
+1.229,0.532,Kansas,United States,12/1/1900,1900,12,Dec,20000
+2.594,0.586,Kentucky,United States,12/1/1900,1900,12,Dec,21000
+10.346,0.655,Louisiana,United States,12/1/1900,1900,12,Dec,22000
+-8.091,0.581,Maine,United States,12/1/1900,1900,12,Dec,23000
+1.639,0.622,Maryland,United States,12/1/1900,1900,12,Dec,24000
+-2.772,0.698,Massachusetts,United States,12/1/1900,1900,12,Dec,25000
+-3.475,0.573,Michigan,United States,12/1/1900,1900,12,Dec,26000
+-8.528,0.642,Minnesota,United States,12/1/1900,1900,12,Dec,27000
+8.461,0.533,Mississippi,United States,12/1/1900,1900,12,Dec,5093
+1.571,0.522,Missouri,United States,12/1/1900,1900,12,Dec,29000
+-2.289,0.471,Montana,United States,12/1/1900,1900,12,Dec,30000
+-0.71,0.728,Nebraska,United States,12/1/1900,1900,12,Dec,31000
+0.742,0.692,Nevada,United States,12/1/1900,1900,12,Dec,5099
+-6.373,0.672,New Hampshire,United States,12/1/1900,1900,12,Dec,33000
+0.102,0.559,New Jersey,United States,12/1/1900,1900,12,Dec,34000
+1.655,0.52,New Mexico,United States,12/1/1900,1900,12,Dec,35000
+-4.138,0.587,New York,United States,12/1/1900,1900,12,Dec,36000
+4.958,0.594,North Carolina,United States,12/1/1900,1900,12,Dec,37000
+-7.667,0.646,North Dakota,United States,12/1/1900,1900,12,Dec,38000
+-0.746,0.526,Ohio,United States,12/1/1900,1900,12,Dec,18115
+5,0.518,Oklahoma,United States,12/1/1900,1900,12,Dec,40000
+2.401,0.667,Oregon,United States,12/1/1900,1900,12,Dec,29149
+-1.665,0.583,Pennsylvania,United States,12/1/1900,1900,12,Dec,42000
+-0.483,0.652,Rhode Island,United States,12/1/1900,1900,12,Dec,44000
+7.365,0.682,South Carolina,United States,12/1/1900,1900,12,Dec,45000
+-3.17,0.685,South Dakota,United States,12/1/1900,1900,12,Dec,46000
+4.248,0.631,Tennessee,United States,12/1/1900,1900,12,Dec,47000
+8.271,0.446,Texas,United States,12/1/1900,1900,12,Dec,29215
+-1.434,0.616,Utah,United States,12/1/1900,1900,12,Dec,49000
+-6.768,0.603,Vermont,United States,12/1/1900,1900,12,Dec,50000
+2.568,0.476,Virginia,United States,12/1/1900,1900,12,Dec,51000
+2.166,0.712,Washington,United States,12/1/1900,1900,12,Dec,1129
+0.42,0.54,West Virginia,United States,12/1/1900,1900,12,Dec,54000
+-5.756,0.689,Wisconsin,United States,12/1/1900,1900,12,Dec,55000
+-3.122,0.724,Wyoming,United States,12/1/1900,1900,12,Dec,36121
+6.815,0.618,Georgia (State),United States,1/1/1900,1900,1,Jan,13000
+7.465,0.572,Georgia (State),United States,2/1/1900,1900,2,Feb,13000
+11.834,0.245,Georgia (State),United States,3/1/1900,1900,3,Mar,13000
+17.554,0.364,Georgia (State),United States,4/1/1900,1900,4,Apr,13000
+21.31,0.329,Georgia (State),United States,5/1/1900,1900,5,May,13000
+24.394,0.538,Georgia (State),United States,6/1/1900,1900,6,Jun,13000
+26.511,0.503,Georgia (State),United States,7/1/1900,1900,7,Jul,13000
+27.499,0.236,Georgia (State),United States,8/1/1900,1900,8,Aug,13000
+24.876,0.302,Georgia (State),United States,9/1/1900,1900,9,Sep,13000
+20.122,0.424,Georgia (State),United States,10/1/1900,1900,10,Oct,13000
+13.256,0.362,Georgia (State),United States,11/1/1900,1900,11,Nov,13000
+8.276,0.645,Georgia (State),United States,12/1/1900,1900,12,Dec,13000
